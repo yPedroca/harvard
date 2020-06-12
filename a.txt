@@ -1,4 +1,8 @@
 
 enterndendo o HEAD
 sou lindo dms
+<<<<<<< HEAD
 linha modificada msater
+=======
+linha modificada teste
+>>>>>>> testando
